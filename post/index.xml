@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | HWSecurity</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hwsecurity.github.io/post/</link>
+      <atom:link href="https://hwsecurity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Tue, 29 Nov 2022 10:15:46 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 08 Aug 2022 10:15:30 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hwsecurity.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://example.com/post/</link>
+      <link>https://hwsecurity.github.io/post/</link>
     </image>
     
     <item>
-      <title>文章三</title>
-      <link>https://example.com/post/%E6%96%87%E7%AB%A0%E4%B8%89/</link>
-      <pubDate>Tue, 29 Nov 2022 10:15:46 +0000</pubDate>
-      <guid>https://example.com/post/%E6%96%87%E7%AB%A0%E4%B8%89/</guid>
-      <description>&lt;p&gt;文章描述3&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>HWS计划特别企划的沙龙有什么？</title>
-      <link>https://example.com/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Mon, 28 Nov 2022 10:15:30 +0000</pubDate>
-      <guid>https://example.com/post/20-12-01-wowchemy-prize/</guid>
+      <link>https://hwsecurity.github.io/post/22-08-08/</link>
+      <pubDate>Mon, 08 Aug 2022 10:15:30 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/22-08-08/</guid>
       <description>&lt;p&gt;
 
 
@@ -45,10 +36,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_4cbf86d104d8ad6aa8c6d234acc86c0c.webp 400w,
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_fa818e06ecc5f89e0e21bb7d74860b7d.webp 760w,
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_4cbf86d104d8ad6aa8c6d234acc86c0c.webp&#34;
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_4cbf86d104d8ad6aa8c6d234acc86c0c.webp 400w,
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_fa818e06ecc5f89e0e21bb7d74860b7d.webp 760w,
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_4cbf86d104d8ad6aa8c6d234acc86c0c.webp&#34;
                width=&#34;760&#34;
                height=&#34;351&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -101,10 +92,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图片&#34; srcset=&#34;
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_96d7553a1ad128aab800af54bcd108bf.webp 400w,
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_328c58641cca6c1a138b683a3241c1e1.webp 760w,
-               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_96d7553a1ad128aab800af54bcd108bf.webp&#34;
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_96d7553a1ad128aab800af54bcd108bf.webp 400w,
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_328c58641cca6c1a138b683a3241c1e1.webp 760w,
+               /post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-08-08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_96d7553a1ad128aab800af54bcd108bf.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -114,11 +105,232 @@
     </item>
     
     <item>
-      <title>文章一</title>
-      <link>https://example.com/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Sun, 27 Nov 2022 09:55:38 +0000</pubDate>
-      <guid>https://example.com/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;文章描述1&lt;/p&gt;
+      <title>HWS计划第五期在线夏令营线上讲座直播预告</title>
+      <link>https://hwsecurity.github.io/post/22-07-26/</link>
+      <pubDate>Tue, 26 Jul 2022 10:15:46 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/22-07-26/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index.assets/640.jpeg&#34; alt=&#34;图片&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>回看前四期风采，翘首以盼第五期HWS</title>
+      <link>https://hwsecurity.github.io/post/22-07-22/</link>
+      <pubDate>Fri, 22 Jul 2022 10:15:46 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/22-07-22/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;导语：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;HWS计划系列活动，是由安恒信息主办，华为独家赞助的硬件安全主题活动。目前已经开展至第五期，让我们来看看前四期的风采吧！&lt;/p&gt;
+&lt;h1 id=&#34;hws-01-2020安全精英夏令营&#34;&gt;HWS-01 2020安全精英夏令营&lt;/h1&gt;
+&lt;p&gt;HWS计划第一期邀请行业内顶尖知名CTF战队队员设计了超多干货课程，进行为期5天的线上免费直播教学。（赶快来报名获得往期HWS独家学习资料）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/22-07-22/img1_huc374be2d88c5dbbf80cbcc72f9abb8a5_149309_42f478161a63152593b4de257ada7e25.webp 400w,
+               /post/22-07-22/img1_huc374be2d88c5dbbf80cbcc72f9abb8a5_149309_a077ccf0c2c2e79192cd201ad3beb224.webp 760w,
+               /post/22-07-22/img1_huc374be2d88c5dbbf80cbcc72f9abb8a5_149309_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-07-22/img1_huc374be2d88c5dbbf80cbcc72f9abb8a5_149309_42f478161a63152593b4de257ada7e25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;线下训练营也保持高质量的追求，邀请了业界翘楚为学员们打开底层安全世界大门。内核安全、硬件安全、固件安全、实操课程；理论+实操的丰满课程设计，舒适的学习生活环境，还有万元大奖任性倒贴，收获满满好评！&lt;/p&gt;
+&lt;h1 id=&#34;hws-02-2021硬件安全冬令营&#34;&gt;HWS-02 2021硬件安全冬令营&lt;/h1&gt;
+&lt;p&gt;HWS计划第二期&lt;strong&gt;首发侧信道实操课程&lt;/strong&gt;（侧信道分析原理培训及实战、故障注入分析原理培训及实战、芯片微架构安全技术理论培训及案例分享等），并独家定制硬件安全实验板，学员动手能力UP UP UP！实战技能拉满！&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/22-07-22/img2_hu7e383d16f61fed0b21e7a9608c9aaa1e_100798_6a67637c86eedc65db4217143b9561a6.webp 400w,
+               /post/22-07-22/img2_hu7e383d16f61fed0b21e7a9608c9aaa1e_100798_a0c75b824a7557ca9327a48cc5fe76c1.webp 760w,
+               /post/22-07-22/img2_hu7e383d16f61fed0b21e7a9608c9aaa1e_100798_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-07-22/img2_hu7e383d16f61fed0b21e7a9608c9aaa1e_100798_6a67637c86eedc65db4217143b9561a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;第二期开启“硬核”结营赛，与华为精英战队同场竞技、一较高下。比赛分为开发板赛题、演示类赛题、常规CTF类赛题，赛题类型包括单板安全、硬件安全、固件安全、可信计算、芯片安全、物联网设备安全。（赛题多种多样，HWSer比得畅快）&lt;/p&gt;
+&lt;p&gt;第二期课程撞上元宵，各位HWSer欢聚一堂，聚餐、游戏、抽奖，气氛热烈。&lt;/p&gt;
+&lt;p&gt;结营仪式同沙龙论坛会共同举办，论坛会上各专家大牛分享CTF战队经验，并且每个在结营赛中拿到first blood的红武士也进行了自己的思路分享。可谓是知识盛宴，最后对成绩优异的学员，还进行丰厚的奖金激励。&lt;/p&gt;
+&lt;h1 id=&#34;hws-0304-2021-2022硬件安全在线夏冬令营&#34;&gt;HWS-03&amp;amp;04 2021-2022硬件安全在线夏冬令营&lt;/h1&gt;
+&lt;p&gt;HWS计划第三期第四期受环境因素影响，修改为在线夏冬令营的形式开展。在线夏冬令营累计10日专业课程、50h+的学习时长、BlackHat的视野拓宽，硬件攻防的创新赛题研究，隔空相见的在线夏冬令营，大家热情依旧。&lt;/p&gt;
+&lt;p&gt;在线夏冬令营设专家答疑及分享会，邀请学员提问，或是某题目的不解，或是刚进入硬件安全领域的学习规划困扰，或是读研读博方向的迷茫，或是职业道路前行的踌躇，HWS的常驻硬件安全专家Dr. 刘，亦师亦友，凭其多年硬件安全领域经验沉淀以独到的视角为学员提出建议，用先辈经验给予指引。学习之余，同学们也侃天说地，还进行唱歌、乐器等才艺分享，好不欢乐。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hi 我们的老朋友HWS计划又来了</title>
+      <link>https://hwsecurity.github.io/post/22-07-15/</link>
+      <pubDate>Fri, 15 Jul 2022 10:15:46 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/22-07-15/</guid>
+      <description>&lt;h1 id=&#34;hws计划在线夏令营&#34;&gt;HWS计划在线夏令营&lt;/h1&gt;
+&lt;p&gt;HWS计划系列活动，是由安恒信息主办，华为独家赞助，HWS计划是华为对硬件安全人才的培养计划，以“硬件安全”为主题，寻找&amp;amp;培养最强“红武士”。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/22-07-15/img1_hu75cc3aa1f7299f890bab82cff31926d6_830934_d97e2374e78ffcfbb3a040ac9da38871.webp 400w,
+               /post/22-07-15/img1_hu75cc3aa1f7299f890bab82cff31926d6_830934_0be69ecb72e96d56c03af59091b5fe04.webp 760w,
+               /post/22-07-15/img1_hu75cc3aa1f7299f890bab82cff31926d6_830934_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-07-15/img1_hu75cc3aa1f7299f890bab82cff31926d6_830934_d97e2374e78ffcfbb3a040ac9da38871.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;484&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;本次特别企划，采用在线夏令营学习+线下沙龙交流形式，沙龙将在全国有华为研究所的城市巡回开展*（具体开展城市由各位HWSer来选择*）&lt;/p&gt;
+&lt;p&gt;本次在线夏令营招收海内外全日制高校在校生，二进制、IOT、底软、固件、芯片、内核、PWN、硬件安全等方面的安全人才，打造硬件安全领域冉冉升起的新星，去创造更美好的世界！&lt;/p&gt;
+&lt;h1 id=&#34;一如既往的硬核&#34;&gt;一如既往的“硬核”&lt;/h1&gt;
+&lt;h3 id=&#34;滚动积累的独家学习资料&#34;&gt;滚动积累的独家学习资料&lt;/h3&gt;
+&lt;p&gt;现报名可获得的HWS独家学习资料，包含二进制、PWN、IoT安全、故障注入、侧信道等等方向经验分享。&lt;/p&gt;
+&lt;p&gt;（老HWSer都知道往年培训录播保留成为下一次活动学习资料，每年留存的一手资料你不想获取吗？）&lt;/p&gt;
+&lt;p&gt;再次升级的高质量赛题&lt;/p&gt;
+&lt;p&gt;HWS出马，就知有没有！本次预选赛赛题增加赛题类型，难度升级，时长增加，持久拉力赛一触即发！&lt;/p&gt;
+&lt;h3 id=&#34;为爱发电的免费精华课程分享&#34;&gt;“为爱发电”的免费精华课程分享&lt;/h3&gt;
+&lt;p&gt;本次活动在线讲座及在线夏令营的所有课程依旧免费，多个硬件安全专家“为爱发电”，精品课程培训不容错过。&lt;/p&gt;
+&lt;h3 id=&#34;不离不弃的老朋友全程陪伴&#34;&gt;“不离不弃”的老朋友全程陪伴&lt;/h3&gt;
+&lt;p&gt;伴随HWS计划创立成长的老朋友&amp;ndash;华为“心灵导师”，将全场陪伴HWSer的学习、分享，另外优秀学员还可获得华为实习的优先录取资格。&lt;/p&gt;
+&lt;h1 id=&#34;意想不到的创新&#34;&gt;意想不到的“创新”&lt;/h1&gt;
+&lt;h3 id=&#34;夏冬令营改版沙龙驾到&#34;&gt;夏冬令营改版，沙龙驾到&lt;/h3&gt;
+&lt;p&gt;夏令营调整为线上模式，打破空间局限，让更多的同学的参与学习。沙龙采用线下模式，实地分享，沉浸式交流学习。线上线下结合，活动形式丰富。&lt;/p&gt;
+&lt;h3 id=&#34;多主题沙龙多城市巡回&#34;&gt;多主题沙龙，多城市巡回&lt;/h3&gt;
+&lt;p&gt;多城市巡回的沙龙，希望用“HWSer不动，沙龙动”的形式，最大限度的减少外在因素影响，降低风险。且每场沙龙将根据各城市华为研究所的特色设计主题，别具一格。&lt;/p&gt;
+&lt;h3 id=&#34;多角度感受华为氛围&#34;&gt;多角度感受华为氛围&lt;/h3&gt;
+&lt;p&gt;不同的城市，不同的环境，不同的主题，多角度深入感受华为氛围！！！&lt;/p&gt;
+&lt;h1 id=&#34;活动日程安排&#34;&gt;活动日程安排&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;线上报名：&lt;/p&gt;
+&lt;p&gt;即日起至7月27日18:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;线上讲座（公开课）：&lt;/p&gt;
+&lt;p&gt;7月26日 18:30 -20:30，面向所有报名学员&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;预选赛：&lt;/p&gt;
+&lt;p&gt;7月29日09:00 - 8月1日21:00&lt;/p&gt;
+&lt;p&gt;竞赛模式：个人赛&lt;/p&gt;
+&lt;p&gt;赛题类型：常规CTF+RW+硬件类（密码/侧信道）&lt;/p&gt;
+&lt;p&gt;参赛地址：hws2022.dasctf.com（28日12:00后开放登陆测试）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在线夏令营：&lt;/p&gt;
+&lt;p&gt;8月8日-8月12日 每日18:30-20:30&lt;/p&gt;
+&lt;p&gt;HWS晚间课堂与你相约❤️（具体课程信息下周揭晓）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多主题巡回沙龙：&lt;/p&gt;
+&lt;p&gt;场次时间地点待定&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;但是！时间地点由你来选&lt;/p&gt;
+&lt;p&gt;北京/上海/深圳/西安/杭州/东莞/武汉/成都等有华为研究所的城市均可选择&lt;/p&gt;
+&lt;p&gt;（报名时，各位HWSer请投票选择希望举办沙龙的城市和时间，HWS会根据投票结果计划时间地点开展沙龙）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;活动报名通知&#34;&gt;活动报名通知&lt;/h1&gt;
+&lt;p&gt;招募对象：&lt;/p&gt;
+&lt;p&gt;海内外全日制高校在校生，二进制、逆向、IoT、硬件安全等方向的安全人才&lt;/p&gt;
+&lt;p&gt;招募计划：&lt;/p&gt;
+&lt;p&gt;招募计划线上赛排名 Top50 -100（视报名情况进行调整）可获得在线夏令营入营资格及线下沙龙席位，另设20个绿色通道申请名额，给错过报名/比赛却想参与活动的同学（有意向的选手可在报名表单中，提交简历进行申请）。&lt;/p&gt;
+&lt;p&gt;报名方式：&lt;/p&gt;
+&lt;p&gt;扫描下方二维码填写信息进行报名，或者关注「数字人才创研院公众号」发送“HWS”获取报名链接。（报名表单中设置沙龙举办地及时间的投票，HWSer快来为自己方便的时间及期望的城市投上一票吧）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/22-07-15/img2_huebc9740ac797a3d5f548d3f1a40cbe6e_2471_c5e97dcb0b29bc5d59c69520885f3395.webp 400w,
+               /post/22-07-15/img2_huebc9740ac797a3d5f548d3f1a40cbe6e_2471_d61ff7eb2b10306a36c2c31310a7d303.webp 760w,
+               /post/22-07-15/img2_huebc9740ac797a3d5f548d3f1a40cbe6e_2471_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-07-15/img2_huebc9740ac797a3d5f548d3f1a40cbe6e_2471_c5e97dcb0b29bc5d59c69520885f3395.webp&#34;
+               width=&#34;232&#34;
+               height=&#34;232&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;报名通知：&lt;/p&gt;
+&lt;p&gt;报名过程中组委会将陆续审核选手报名信息，审核通过后将会给学员发送通知邮件，邮件内包含往期HWS学习资料，线上赛地址等详细信息。&lt;/p&gt;
 </description>
     </item>
     
