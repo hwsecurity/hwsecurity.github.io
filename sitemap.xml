@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-11-29T10:15:46+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-11-29T10:15:46+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/%E6%96%87%E7%AB%A0%E4%B8%89/</loc><lastmod>2022-11-29T10:15:46+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/111/</loc><lastmod>2022-11-29T09:53:32+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2022-11-29T09:53:32+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/20-12-01-wowchemy-prize/</loc><lastmod>2022-11-28T10:15:30+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/20-12-02-icml-best-paper/</loc><lastmod>2022-11-27T09:55:38+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/event/example/</loc><lastmod>2022-07-01T09:34:48+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/event/</loc><lastmod>2022-07-01T09:34:48+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/contact/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/people/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/authors/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tour/</loc><changefreq>weekly</changefreq></url></urlset>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy Research Group</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy Research Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 10:15:46 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wowchemy Research Group</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>文章三</title>
+      <link>https://example.com/post/%E6%96%87%E7%AB%A0%E4%B8%89/</link>
+      <pubDate>Tue, 29 Nov 2022 10:15:46 +0000</pubDate>
+      <guid>https://example.com/post/%E6%96%87%E7%AB%A0%E4%B8%89/</guid>
+      <description>&lt;p&gt;文章描述3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>111</title>
+      <link>https://example.com/project/111/</link>
+      <pubDate>Tue, 29 Nov 2022 09:53:32 +0000</pubDate>
+      <guid>https://example.com/project/111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HWS计划特别企划的沙龙有什么？</title>
+      <link>https://example.com/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Mon, 28 Nov 2022 10:15:30 +0000</pubDate>
+      <guid>https://example.com/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_6cb2763233bcfe268c570103b2bab819.webp 400w,
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_f476d593a11ed1b6949cd2c44d1912a8.webp 760w,
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180100_hud0bf6bf800c342849d542527669eaa34_151595_6cb2763233bcfe268c570103b2bab819.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;351&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!--StartFragment--&gt;
+&lt;p&gt;&lt;em&gt;沙龙议题分享实操实战提供开发板&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;议题一：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;硬件安全初体验-侧信道实战演练&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;第一讲：密码算法简介&lt;/p&gt;
+&lt;p&gt;第二讲：简单能量分析&lt;/p&gt;
+&lt;p&gt;第三讲：相关能量分析&lt;/p&gt;
+&lt;p&gt;第四讲：模板分析&lt;/p&gt;
+&lt;p&gt;第五讲：侧信道防护对策&lt;/p&gt;
+&lt;p&gt;第六讲：面向防护对策的针对性侧信道分析&lt;/p&gt;
+&lt;p&gt;第七讲：侧信道分析测评实战案例分享&lt;/p&gt;
+&lt;p&gt;第八讲：侧信道计时分析与缓存分析&lt;/p&gt;
+&lt;p&gt;第九讲：国际侧信道攻击实际案例概述&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;课程提供侧信道设备及开发板 全场实操实战&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;讲师：王安&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;北京理工大学网络空间安全学院研究员，博士生导师，中国密码学会密码芯片专业委员会委员，《密码学报》编委，主要研究方向为密码工程与侧信道攻防技术。2011年博士毕业于山东大学数学院信息安全专业，随后进入清华大学从事两站博士后研究工作，2015年进入北京理工大学计算机学院任教至今。主持国家自然科学基金等9项国家级或省部级科研项目，获党政密码科学技术进步奖、AsiaJCIS 2018/ChinaCrypt 2015/CryptoTE 2021/全国密码学与信息安全教学研讨会等会议最佳论文奖、中国博士后科学基金特等和一等资助，发表学术论文70余篇。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;议题二:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从HITCON18赛题superhexagon理解armv8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本题就像是在ARM系统中一次精彩的探险之旅。出题人仅用1M大小左右的固件，构造出了ARM世界近乎完整的探险地图。在漫长的旅途中，我们要一路披荆斩棘，从手无寸铁的用户态EL0起家，历经内核态EL1，虚拟机管理器EL2，安全世界用户态S-EL0，安全世界内核态S-EL1，最终夺取目标处理器的最高权限EL3。精彩也意味着复杂，把这个题目给大家讲清楚就更难了。为此，我用了将近两个月的课余时间，却只完成了本题一半的课件，即完成到EL2。也是最近实在太忙，的确没有时间完成后三关，希望未来有缘再续。因此，本次为期两天的分享包括：从用户态到内核态；从内核态到hypervisor。
+需要相关基础：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pwn（内存破坏漏洞分的析与利用）&lt;/li&gt;
+&lt;li&gt;了解ARM指令集&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;课程提供ESP32开发板 全场实操实战&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;讲师：王宇轩&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;清华大学Redbud战队成员，主要研究ICS、IoT领域的安全问题。曾合作完成对小米音响、新宝骏汽车、华晨中华V7汽车的破解，并获2020天府杯最佳漏洞演示奖。    &lt;/p&gt;
+&lt;p&gt;博客：https://xuanxuanblingbling.github.io/&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图片&#34; srcset=&#34;
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_a82176d5b0db641929890060d65d8b47.webp 400w,
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_6afa054adeca7b4f79fbd0b217b20500.webp 760w,
+               /post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/20-12-01-wowchemy-prize/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129180451_hueb9b286b62f3be90266d52ffc3b7b464_107628_a82176d5b0db641929890060d65d8b47.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!--EndFragment--&gt;</description>
+    </item>
+    
+    <item>
+      <title>文章一</title>
+      <link>https://example.com/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Sun, 27 Nov 2022 09:55:38 +0000</pubDate>
+      <guid>https://example.com/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;文章描述1&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HWS计划第五期-2022硬件安全在线夏令营</title>
+      <link>https://example.com/event/example/</link>
+      <pubDate>Fri, 01 Jul 2022 09:34:48 +0000</pubDate>
+      <guid>https://example.com/event/example/</guid>
+      <description>&lt;p&gt;详细信息&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://example.com/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
