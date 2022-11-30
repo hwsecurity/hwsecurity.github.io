@@ -5,12 +5,120 @@
     <link>https://hwsecurity.github.io/event/</link>
       <atom:link href="https://hwsecurity.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 01 Jul 2022 09:34:48 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 07 Jan 2023 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hwsecurity.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://hwsecurity.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>HWS第六期2023冬令营选拔赛</title>
+      <link>https://hwsecurity.github.io/event/22-11-30-2/</link>
+      <pubDate>Sat, 07 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/22-11-30-2/</guid>
+      <description>&lt;p&gt;HWS计划是华为对硬件安全人才的培养计划，以“硬件安全”为主题，寻找&amp;amp;培养最强“红武士”。 招收海内外全日制高校在校生，二进制、IOT、底软、固件、芯片、内核、PWN、硬件安全等方面的安全人才，打造硬件安全领域冉冉升起的新星，去创造更美好的世界！&lt;/p&gt;
+&lt;p&gt;一、竞赛内容&lt;/p&gt;
+&lt;p&gt;本次选拔赛为CTF赛场，CTF采用动态积分制，初始积分1000分，按最终积分进行排名。&lt;/p&gt;
+&lt;p&gt;二、参赛对象&lt;/p&gt;
+&lt;p&gt;参赛对象为山东大学具有正式学籍的全日制在校学生。&lt;/p&gt;
+&lt;p&gt;三、参赛方式&lt;/p&gt;
+&lt;p&gt;本次大赛为个人赛制，参赛者须参赛报名表（报名表链接：https://www.wjx.cn/vm/YDyAB6N.aspx），并加入官网大赛交流群（QQ:675843070）。&lt;/p&gt;
+&lt;p&gt;四、时间安排&lt;/p&gt;
+&lt;p&gt;报名时间：2022年11月30日至2022年12月31日23时59分&lt;/p&gt;
+&lt;p&gt;比赛时间：2023年1月6日-1月9日（线上）&lt;/p&gt;
+&lt;p&gt;五、报名须知&lt;/p&gt;
+&lt;p&gt;大赛报名起止时间为：2022年11月30日至2022年12月31日23时59分。组委会于2023年1月3日完成选拔赛资格审查，并公布参赛名单。更多报名事宜请咨询山东大学联络人赵老师，联系方式0532-58638630, 邮箱zhaojianwei@sdu.edu.cn。&lt;/p&gt;
+&lt;p&gt;六、其它事宜&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;有关本届选拔赛的重要通知和说明事项，由组委会通过山东大学网络空间安全学院官网、官方QQ群统一公告和通知。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本次大赛将会在全国范围内开展报名，届时将统一竞技。本次大赛奖金分为全国奖金和山大专项奖金，山大优秀学子有机会获得两份丰厚奖金。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;七、联系信息&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;大赛联络人：赵老师，0532-58638630，zhaojianwei@sdu.edu.cn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;秘书处通信地址：山东省青岛市即墨区滨海路72号山大青岛校区淦昌苑D座205-1室&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;官方QQ群：675843070（HWS第六期2023冬令营选拔赛交流群）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>山东大学第三届网络空间安全创新竞赛-华为硬件可信作品赛</title>
+      <link>https://hwsecurity.github.io/event/22-11-30-1/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/22-11-30-1/</guid>
+      <description>&lt;p&gt;一、竞赛内容&lt;/p&gt;
+&lt;p&gt;华为公司提供大赛选题《第三届网络空间安全创新竞赛-华为硬件可信作品赛选题》，以硬件可信方向为主要，可涉及后量子密码硬件安全评测技术、后量子密码硬件加速和安全防御技术、可信根安全、处理器安全等，但不限于以上内容，鼓励从建议课题中选题，也可自主命题。&lt;/p&gt;
+&lt;p&gt;注：从建议课题中选题可加分，自主命题需提前与华为专家确认。&lt;/p&gt;
+&lt;p&gt;二、参赛对象&lt;/p&gt;
+&lt;p&gt;参赛对象为山东大学具有正式学籍的全日制在校学生。学生可自行组队参加，每支参赛队不超过4名学生（包括1名组长）。每支参赛队限指定1名校内指导教师，华为公司指定1名专家协助指导，每名学生限参加1支参赛队。作品赛决赛期间举行的网络安全人才创新创业发展论坛将面向全校师生。&lt;/p&gt;
+&lt;p&gt;三、参赛方式&lt;/p&gt;
+&lt;p&gt;作品赛分为初赛和决赛，初赛形式为线上网评，获得晋级决赛资格的队伍参加决赛现场展示。参赛队伍在确认成员和校内指导教师后请填写参赛报名表（报名表链接：https://www.wjx.cn/vm/wruZJ7F.aspx）。&lt;/p&gt;
+&lt;p&gt;四、时间安排&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index.assets/image-20221130155007201.png&#34; alt=&#34;image-20221130155007201&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;注：线下会评日期可能会根据学校有关新冠疫情防控的总体要求作出调整。&lt;/p&gt;
+&lt;p&gt;五、报名须知&lt;/p&gt;
+&lt;p&gt;大赛报名起止时间为：2022年12月1日至2023年2月15日24时。组委会于2月20日完成作品赛资格审查，并公布作品赛参赛名单。&lt;/p&gt;
+&lt;p&gt;更多报名事宜请咨询山东大学联络人赵老师，联系方式0532-58638630, 邮箱zhaojianwei@sdu.edu.cn。&lt;/p&gt;
+&lt;p&gt;六、其它事宜&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;有关本届作品赛的重要通知和说明事项，由作品赛组委会通过山东大学网络空间安全学院官网、官方QQ群统一公告和通知。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如新冠疫情防控形势有变化，组委会将认真将遵照国家和上级要求适时调整竞赛形式、竞赛时间或竞赛活动内容。具体情况会及时通过学院官网、官方QQ群统一公告和通知。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;七、联系信息&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;大赛联络人：赵老师，0532-58638630，zhaojianwei@sdu.edu.cn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;华为专家联系人：&lt;/p&gt;
+&lt;p&gt;刘剑峰：13121069939，liujianfeng10@huawei.com&lt;/p&gt;
+&lt;p&gt;周新平：18618423969，zhouxinping3@huawei.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;秘书处通信地址：山东省青岛市即墨区滨海路72号山大青岛校区淦昌苑D座205-1室&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;官方QQ群：628444866（第三届网络空间安全创新竞赛-华为硬件可信作品赛学生组长群）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS计划第五期-2022硬件安全在线夏令营</title>
