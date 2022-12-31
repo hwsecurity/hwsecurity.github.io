@@ -5,12 +5,48 @@
     <link>https://hwsecurity.github.io/post/</link>
       <atom:link href="https://hwsecurity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 08 Aug 2022 10:15:30 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 29 Dec 2022 10:15:30 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://hwsecurity.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>HWS第六期赛前预热</title>
+      <link>https://hwsecurity.github.io/post/22-12-29/</link>
+      <pubDate>Thu, 29 Dec 2022 10:15:30 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/22-12-29/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/22-12-29/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221229235957_hufc2734a5c212f1ad2d7e672267a25fdd_167543_4e4fb87da29ff4f7ea58f9d68a2e2b06.webp 400w,
+               /post/22-12-29/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221229235957_hufc2734a5c212f1ad2d7e672267a25fdd_167543_d36409b492654e451c6e8e2603d4bb45.webp 760w,
+               /post/22-12-29/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221229235957_hufc2734a5c212f1ad2d7e672267a25fdd_167543_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/post/22-12-29/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221229235957_hufc2734a5c212f1ad2d7e672267a25fdd_167543_4e4fb87da29ff4f7ea58f9d68a2e2b06.webp&#34;
+               width=&#34;428&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS计划特别企划的沙龙有什么？</title>
