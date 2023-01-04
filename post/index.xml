@@ -5,12 +5,29 @@
     <link>https://hwsecurity.github.io/post/</link>
       <atom:link href="https://hwsecurity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 29 Dec 2022 10:15:30 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Wed, 04 Jan 2023 10:15:30 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://hwsecurity.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>HWS第六期赛前预热活动录屏</title>
+      <link>https://hwsecurity.github.io/post/23-01-04/</link>
+      <pubDate>Wed, 04 Jan 2023 10:15:30 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/23-01-04/</guid>
+      <description>&lt;center&gt;HWS计划介绍&lt;/center&gt;
+&lt;iframe src=&#34;https://player.bilibili.com/player.html?bvid=BV1nP4y1e7po&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34;
+			 allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;center&gt;比赛平台介绍&lt;/center&gt;
+&lt;iframe src=&#34;https://player.bilibili.com/player.html?bvid=BV1j14y1g7DL&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34;
+			 allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+&lt;center&gt;BlackhatEU2022议题分享&lt;/center&gt;
+&lt;iframe src=&#34;https://player.bilibili.com/player.html?bvid=BV17M411a7V5&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34;
+			 allowfullscreen=&#34;allowfullscreen&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS第六期赛前预热</title>
