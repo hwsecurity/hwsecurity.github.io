@@ -5,12 +5,79 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 07 Jan 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sun, 21 May 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
       <link>https://hwsecurity.github.io/</link>
     </image>
+    
+    <item>
+      <title>HWS第六期沙龙青岛站</title>
+      <link>https://hwsecurity.github.io/event/23-05-15/</link>
+      <pubDate>Sun, 21 May 2023 14:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/23-05-15/</guid>
+      <description>&lt;!-- ![](海报.jpg) --&gt;
+&lt;p&gt;一、沙龙内容&lt;/p&gt;
+&lt;p&gt;为拓宽学生对计算机底层技术与网络空间安全的视野，提升对计算机行业的全景认知，山东大学网络空间安全学院将与华为联合举办HWS底软安全沙龙第六期-青岛站山大专场。&lt;/p&gt;
+&lt;p&gt;本次活动隆重邀请各位同学来到山东大学青岛校区，届时，我们的老朋友HWS计划创始人刘剑峰博士会给大家详细介绍硬件可信业务，可以直接与专家现场面对面互动～一起沉浸式讨论学习、就业、深造、专业方向、兴趣选择、时间分配等等，为同学们提供更多的优秀实践经验分享。&lt;/p&gt;
+&lt;p&gt;二、活动对象&lt;/p&gt;
+&lt;p&gt;参赛对象为海内外全日制高校在校生。&lt;/p&gt;
+&lt;p&gt;三、活动内容&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;底层软硬件安全基础介绍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;部分实验室攻防案例展示&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;计算机行业不同职位的具体职责分析&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以算法题为例的计算机行业的必备技能与求职准备&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;生涯规划：学术还是工业&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安全工作经验分享&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;四、参与流程&lt;/p&gt;
+&lt;p&gt;报名链接：(&lt;a href=&#34;https://www.wjx.top/vm/exvAxTW.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.top/vm/exvAxTW.aspx&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;五、联系信息&lt;/p&gt;
+&lt;p&gt;活动微信群：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/23-05-15/wx_hu7dad7fdbb24c843cc09cd475849a17df_78566_7cf8ff25160aa1a2756f7b41741f3bcb.webp 400w,
+               /event/23-05-15/wx_hu7dad7fdbb24c843cc09cd475849a17df_78566_59d82ddc17427fec8174d3f9907c8389.webp 760w,
+               /event/23-05-15/wx_hu7dad7fdbb24c843cc09cd475849a17df_78566_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/event/23-05-15/wx_hu7dad7fdbb24c843cc09cd475849a17df_78566_7cf8ff25160aa1a2756f7b41741f3bcb.webp&#34;
+               width=&#34;530&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS第六期2023冬令营选拔赛</title>
