@@ -5,12 +5,80 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 20 May 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Jul 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
       <link>https://hwsecurity.github.io/</link>
     </image>
+    
+    <item>
+      <title>HWS第六期算法沙龙（济南站）——暨HWS第七期夏令营预选赛</title>
+      <link>https://hwsecurity.github.io/event/23-06-20/</link>
+      <pubDate>Sat, 01 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/23-06-20/</guid>
+      <description>&lt;p&gt;一、沙龙内容&lt;/p&gt;
+&lt;p&gt;为拓宽学生对计算机底层技术与网络空间安全的视野，提升对计算机行业的全景认知，山东大学将与华为联合举办HWS底软安全沙龙第六期-济南站山大专场活动。&lt;/p&gt;
+&lt;p&gt;本次活动隆重邀请各位同学来到山东大学济南校区，届时，我们的老朋友HWS计划创始人刘剑峰博士会给大家详细介绍华为底软业务，可以直接与专家现场面对面互动～一起沉浸式讨论学习、就业、深造、专业方向、兴趣选择、时间分配等等，为同学们提供更多的优秀实践经验分享。&lt;/p&gt;
+&lt;p&gt;同时，本次沙龙作为HWS夏令营软件赛道的预选赛，会组织一场ACM比赛，采用IOI赛制，出线的同学将有机会受邀参加HWS第七期夏令营活动，前往华为研究所实地参观和学习（约一周时间），并有机会赢取万元奖学金，欢迎各位同学踊跃报名！&lt;/p&gt;
+&lt;p&gt;二、活动对象&lt;/p&gt;
+&lt;p&gt;海内外全日制高校在校生。&lt;/p&gt;
+&lt;p&gt;三、活动时间与内容&lt;/p&gt;
+&lt;p&gt;上午：9:30~12:00&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;《HWS系列活动介绍》
+
+《什么是底软——华为底软业务初探》
+
+《毕业去做什么——计算机及软件类行业职业规划》
+
+《ACM经典题解分析》
+
+《开放式论坛：读研还是就业，你会怎么选》
+
+自由研讨（答疑及互动）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;下午：14:00~17:00&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ACM软件竞赛（IOI赛制）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;晚上：18:30~20:30&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;赛题解析
+
+自由研讨（答疑及互动）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;四、参与流程&lt;/p&gt;
+&lt;p&gt;报名链接：(&lt;a href=&#34;https://www.wjx.top/vm/exTYN0y.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.top/vm/exTYN0y.aspx&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;五、联系信息&lt;/p&gt;
+&lt;p&gt;活动微信群：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/23-06-20/wx_hu6f63a189f60b59225dc25fa3a0541f6e_101884_a1dd49da03df3fb38e4492fd6db55bac.webp 400w,
+               /event/23-06-20/wx_hu6f63a189f60b59225dc25fa3a0541f6e_101884_6355f510d916aca042f3c4e8b7d28d43.webp 760w,
+               /event/23-06-20/wx_hu6f63a189f60b59225dc25fa3a0541f6e_101884_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/event/23-06-20/wx_hu6f63a189f60b59225dc25fa3a0541f6e_101884_a1dd49da03df3fb38e4492fd6db55bac.webp&#34;
+               width=&#34;425&#34;
+               height=&#34;619&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS第六期沙龙青岛站</title>
