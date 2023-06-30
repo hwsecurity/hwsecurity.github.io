@@ -5,7 +5,7 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Thu, 13 Jul 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 15 Jul 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
@@ -13,11 +13,71 @@
     </image>
     
     <item>
+      <title>HWS第七期2023夏令营选拔赛</title>
+      <link>https://hwsecurity.github.io/event/23-07-01/</link>
+      <pubDate>Sat, 15 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/23-07-01/</guid>
+      <description>&lt;!-- ![](海报.jpg) --&gt;
+&lt;p&gt;一、竞赛内容&lt;/p&gt;
+&lt;p&gt;本次选拔赛为CTF赛制，采用动态积分，初始积分1000分，按最终积分进行排名。&lt;/p&gt;
+&lt;p&gt;二、参赛对象&lt;/p&gt;
+&lt;p&gt;参赛对象为海内外全日制高校在校生。&lt;/p&gt;
+&lt;p&gt;三、参赛方式&lt;/p&gt;
+&lt;p&gt;本次大赛为个人赛制，参赛者须填写报名表，报名表链接：(&lt;a href=&#34;https://www.wjx.top/vm/wiLtNMV.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.top/vm/wiLtNMV.aspx&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;四、时间安排&lt;/p&gt;
+&lt;p&gt;报名时间：2023年07月01日至2023年07月14日19时00分&lt;/p&gt;
+&lt;p&gt;比赛时间：2023年07月15日至07月17日（线上）&lt;/p&gt;
+&lt;p&gt;五、报名须知&lt;/p&gt;
+&lt;p&gt;大赛报名起止时间为：2023年07月01日至2023年07月14日19时00分。工作人员于2023年07月14日完成选拔赛资格审查，并公布参赛名单。&lt;/p&gt;
+&lt;p&gt;六、其它事宜&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有关本届选拔赛的重要通知和说明事项，工作人员会通过QQ群通知。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;七、联系信息&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;比赛QQ群：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/23-07-01/wxg_hud2250ed9b1441532699081db6d7f8871_72349_11308b975ef39a5e3940159d58332922.webp 400w,
+               /event/23-07-01/wxg_hud2250ed9b1441532699081db6d7f8871_72349_7d005fec61ab4aae69b7f9bdadbea229.webp 760w,
+               /event/23-07-01/wxg_hud2250ed9b1441532699081db6d7f8871_72349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://hwsecurity.github.io/event/23-07-01/wxg_hud2250ed9b1441532699081db6d7f8871_72349_11308b975ef39a5e3940159d58332922.webp&#34;
+               width=&#34;339&#34;
+               height=&#34;339&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>HWS第六期算法沙龙（杭州站）——暨HWS第七期夏令营预选赛</title>
       <link>https://hwsecurity.github.io/event/23-06-30/</link>
       <pubDate>Thu, 13 Jul 2023 09:00:00 +0000</pubDate>
       <guid>https://hwsecurity.github.io/event/23-06-30/</guid>
-      <description>&lt;p&gt;一、部门介绍&lt;/p&gt;
+      <description>&lt;p&gt;&lt;font color=&#39;red&#39;&gt;本次夏令营算法专场将与清华算法协会联合举办，往期内容可参考：https://mp.weixin.qq.com/s/56ben6AyGrqpnqr_cbIYIg&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#39;red&#39;&gt;成功受邀参与线下活动的同学视为拥有夏令营入营资格&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;一、部门介绍&lt;/p&gt;
 &lt;p&gt;2012实验室是华为公司的技术研究创新中心，专注于基础理论与前沿技术研究、产品技术竞争力的构建以及新产业孵化。业务涵盖了未来网络、人工智能、计算集群、芯片、操作系统、数据库、媒体技术、安全、精密制造等所有ICT相关领域。&lt;/p&gt;
 &lt;p&gt;中央硬件工程院隶属于2012实验室，承担了华为集团硬件工程的硬件架构及关键技术突破的重任，是世界级软硬件工程模式、方法、硬件系统创新的核心引擎 &amp;amp; 硬件公共技术能力中心，探索并孵化领先的计算/无线/网络领域的硬件系统，牵引硬件关键技术的摸高和集成验证，支撑Cloud&amp;amp;AI、5G、自动驾驶、终端等产品竞争力持续领先。&lt;/p&gt;
 &lt;p&gt;部门面向公司战略业务场景，包括Cloud&amp;amp;AI、5G、自动驾驶、终端等，核心业务聚焦：&lt;/p&gt;
@@ -77,7 +137,7 @@
 &lt;p&gt;赛题解析&lt;/p&gt;
 &lt;p&gt;自由研讨（答疑及互动）&lt;/p&gt;
 &lt;p&gt;五、参与流程&lt;/p&gt;
-&lt;p&gt;报名链接：()&lt;/p&gt;
+&lt;p&gt;报名链接：(&lt;a href=&#34;https://www.wjx.top/vm/mbkPPRh.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.top/vm/mbkPPRh.aspx&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;六、联系信息&lt;/p&gt;
 &lt;p&gt;活动交流QQ群：
 
