@@ -5,12 +5,23 @@
     <link>https://hwsecurity.github.io/post/</link>
       <atom:link href="https://hwsecurity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://hwsecurity.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>HWS第七期杭州站沙龙回顾</title>
+      <link>https://hwsecurity.github.io/post/23-11-13/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/23-11-13/</guid>
+      <description>&lt;img src=&#34;合照.jpg&#34;/&gt;
+&lt;img src=&#34;园区参观.jpg&#34;/&gt;
+&lt;img src=&#34;交流互动.jpg&#34;/&gt;
+&lt;img src=&#34;颁奖.jpg&#34;/&gt;</description>
+    </item>
     
     <item>
       <title>HWS第七期2023夏令营硬件安全营日程</title>

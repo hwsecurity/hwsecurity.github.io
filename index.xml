@@ -5,12 +5,65 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 18 Nov 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
       <link>https://hwsecurity.github.io/</link>
     </image>
+    
+    <item>
+      <title>HWS计划第七期山东大学站系列活动</title>
+      <link>https://hwsecurity.github.io/event/23-11-13/</link>
+      <pubDate>Sat, 18 Nov 2023 09:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/event/23-11-13/</guid>
+      <description>&lt;!-- ![](海报.jpg) --&gt;
+&lt;!-- 一、竞赛内容
+
+本次选拔赛【硬件安全营】采用CTF赛制，采用动态积分，初始积分1000分，按最终积分进行排名
+
+二、参赛对象
+
+参赛对象为海内外全日制高校在校生。
+
+三、参赛方式
+
+本次大赛为个人赛制，参赛者须填写报名表，报名表链接：(https://www.wjx.top/vm/wiLtNMV.aspx）
+
+四、时间安排
+
+报名时间：2023年07月01日至2023年07月14日19时00分
+
+比赛时间：2023年07月15日至07月17日（线上）
+
+五、报名须知
+
+大赛报名起止时间为：2023年07月01日至2023年07月14日12时00分。工作人员于2023年07月14日完成选拔赛资格审查，并公布参赛名单。
+
+六、其它事宜
+
+1. 有关本届选拔赛的重要通知和说明事项，工作人员会通过QQ群通知。
+
+
+七、联系信息
+
+1. 比赛QQ群：
+
+    ![](wxg.png) --&gt;
+&lt;img src=&#34;post.jpg&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HWS第七期杭州站沙龙回顾</title>
+      <link>https://hwsecurity.github.io/post/23-11-13/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/23-11-13/</guid>
+      <description>&lt;img src=&#34;合照.jpg&#34;/&gt;
+&lt;img src=&#34;园区参观.jpg&#34;/&gt;
+&lt;img src=&#34;交流互动.jpg&#34;/&gt;
+&lt;img src=&#34;颁奖.jpg&#34;/&gt;</description>
+    </item>
     
     <item>
       <title>HWS第七期2023夏令营硬件安全营日程</title>
