@@ -5,12 +5,34 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 18 Nov 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
       <link>https://hwsecurity.github.io/</link>
     </image>
+    
+    <item>
+      <title>HWS第七期山大专场活动网络安全赛道成绩公示</title>
+      <link>https://hwsecurity.github.io/post/23-11-20/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/23-11-20/</guid>
+      <description>&lt;h2 id=&#34;比赛成绩公示&#34;&gt;比赛成绩公示&lt;/h2&gt;
+&lt;p&gt;网络安全赛道CTF初赛比赛结束，经过工作人员审核，如下数据是本次初赛结果。&lt;/p&gt;
+&lt;p&gt;其中涉及到归一化分数、额外加分与初赛总分三个数值：&lt;/p&gt;
+&lt;p&gt;1）归一化分数：当前选手分数/第一名分数*100，保留小数点后一位&lt;/p&gt;
+&lt;p&gt;2）额外加分：对于除WEB外其余分类赛题全部解出可以额外加分，RE/PWN/MISC加2分，CRYPTO加1分&lt;/p&gt;
+&lt;p&gt;3）初赛总分：归一化分数*20%+额外加分&lt;/p&gt;
+&lt;img src=&#34;pic1.png&#34;/&gt;
+&lt;p&gt;上述同学经初审后成绩有效，公示截至11月21日17时，若无异议则【初赛总分】不为0的同学视为晋级。&lt;/p&gt;
+&lt;p&gt;未提交WP的选手可以在QQ群（766705270）里联系【网络安全赛道负责人】进行补交。&lt;/p&gt;
+&lt;p&gt;已提交的WP公示地址：&lt;a href=&#34;writeup.tar&#34;&gt;writeup.tar&lt;/a&gt;，针对公示的WP有异议的选手可以将具体信息发送到 &lt;a href=&#34;mailto:1924594189@qq.com&#34;&gt;1924594189@qq.com&lt;/a&gt; 进行申诉。&lt;/p&gt;
+&lt;h2 id=&#34;绿色通道入围公示&#34;&gt;绿色通道入围公示&lt;/h2&gt;
+&lt;p&gt;申请绿色通道审核通过的选手名单（第一批）如下:&lt;/p&gt;
+&lt;p&gt;王宁，傅晋元，温祖彤，何彦成，费磬远，王昊，接照东，谢震涛&lt;/p&gt;
+&lt;p&gt;绿色通道截止至11月24日12时，请关注Q群通知&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS计划第七期山东大学站系列活动</title>
