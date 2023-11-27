@@ -5,12 +5,26 @@
     <link>https://hwsecurity.github.io/</link>
       <atom:link href="https://hwsecurity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>HWSecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hwsecurity.github.io/media/icon_hudf094f865f4b4d491ee8bb5480373ffc_143685_512x512_fill_lanczos_center_3.png</url>
       <title>HWSecurity</title>
       <link>https://hwsecurity.github.io/</link>
     </image>
+    
+    <item>
+      <title>HWS第七期山大专场活动获奖名单公示</title>
+      <link>https://hwsecurity.github.io/post/23-11-27/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://hwsecurity.github.io/post/23-11-27/</guid>
+      <description>&lt;p&gt;综合线上初赛与线下决赛两场比赛的成绩进行排名，以下是HWS第七期山大专场活动的获奖同学名单&lt;/p&gt;
+&lt;h2 id=&#34;软件算法赛道&#34;&gt;软件算法赛道&lt;/h2&gt;
+&lt;img src=&#34;algorithm.png&#34;/&gt;
+&lt;h2 id=&#34;网络安全赛道&#34;&gt;网络安全赛道&lt;/h2&gt;
+&lt;img src=&#34;security.png&#34;/&gt;
+&lt;p&gt;恭喜以上同学取得本次活动的奖品与奖金！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HWS第七期山大专场活动线下沙龙活动手册</title>
